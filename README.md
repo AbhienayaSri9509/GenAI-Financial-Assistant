@@ -1,17 +1,31 @@
-# GenAI-Financial-Assistant
-"A GenAI-powered assistant for smarter investment decisions."
-## Title of the Project
-Small description about the project like one below
+# GenAI-Powered Financial Assistant 💰📊
 
-## About
+## Overview
 <!--Detailed Description about the project-->
+The GenAI-Powered Financial Assistant is an AI-driven mobile application designed to help users make informed investment decisions. By integrating Gemini APIs, this assistant provides real-time conversational AI insights, personalized portfolio recommendations, and financial education, making investing accessible to both beginners and experienced investors.
 
-
-## Features
+## Features 🚀
 <!--List the features of the project as shown below-->
+✅ Conversational AI – Real-time financial discussions with AI-powered insights
+✅ AI-Powered Investment Insights – Analyzes historical & real-time market trends
+✅ Risk Assessment & Portfolio Optimization – Personalized recommendations based on risk appetite
+✅ Financial Education – AI-driven interactive learning modules
+✅ Data Visualization – Graphical investment insights with Flutter Charts
 
-## Requirements
+## Technology Stack 🛠
 <!--List the requirements of the project as shown below-->
+Frontend (Mobile App) 📱
+Flutter – Cross-platform mobile development
+Dart – Programming language for Flutter
+Tailwind CSS (if using web components)
+
+Backend & APIs ⚙️
+Node.js + Express.js – Backend services
+Firebase / Firestore – Database & authentication
+Gemini API – AI-powered natural language processing
+
+Data Visualization 📊
+Chart.js / Recharts / Flutter Charts – For interactive financial insights
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
@@ -26,10 +40,7 @@ Small description about the project like one below
 
 #### Output2 - Name of the output
 
-## Results and Impact
-<!--Give the results and impact as shown below-->
 
-## Articles published / References
 
 
 
