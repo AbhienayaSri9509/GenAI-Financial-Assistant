@@ -29,8 +29,7 @@ Chart.js / Recharts / Flutter Charts – For interactive financial insights
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-
-
+![Screenshot (133)](https://github.com/user-attachments/assets/4f11aa82-9b00-43e3-b7eb-73dab042b074)
 
 ## Output
 
