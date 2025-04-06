@@ -29,15 +29,15 @@ Chart.js / Recharts / Flutter Charts – For interactive financial insights
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-![Screenshot (133)](https://github.com/user-attachments/assets/4f11aa82-9b00-43e3-b7eb-73dab042b074)
+"C:\Users\HP\Downloads\e3db8f62-d2cf-461a-bea7-23785a4ede61.png"
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 -  Gemini Pro Python API (Backend)
 
 
-#### Output2 - Name of the output
+#### Output2 -  Flutter App (Frontend UI)
 
 
 
