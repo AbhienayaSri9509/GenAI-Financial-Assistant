@@ -29,7 +29,7 @@ Chart.js / Recharts / Flutter Charts – For interactive financial insights
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-![System Architecture](https://user-images.githubusercontent.com/.../image.png)
+![System Architecture](assets/ChatGPT Image Apr 6, 2025, 06_50_01 PM.png)
 
 ## Output
 
