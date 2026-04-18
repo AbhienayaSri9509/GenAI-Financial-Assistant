@@ -39,6 +39,17 @@ Chart.js / Recharts / Flutter Charts – For interactive financial insights
 
 #### Output2 -  Flutter App (Frontend UI)
 
+## AMD GPU Acceleration 🚀
+
+This project is designed to leverage AMD GPUs using ROCm (Radeon Open Compute) for accelerating AI model inference and data processing.
+
+By utilizing AMD GPU architecture, the system achieves:
+- Faster response time for AI queries
+- Efficient parallel computation
+- Scalable deployment for real-time financial analysis
+
+Future enhancements include deploying models on AMD Instinct GPUs for high-performance AI workloads.
+
 
 
 
